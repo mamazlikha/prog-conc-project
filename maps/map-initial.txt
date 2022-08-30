@@ -1,0 +1,15 @@
+# signifie un commentaire
+# taille de la grille
+X 10
+Y 10
+# position des obstacles
+# Xmin Xmax Ymin Ymax
+# si pas obstacle : mettre -1 comme valeur
+-1 -1 -1 -1
+1 1 2 7
+1 7 8 8
+# position initiale des personnes (X, Y) et case de sortie (X, Y)
+2 2 0 0
+3 3 0 9
+6 6 9 0
+7 7 9 9
